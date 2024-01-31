@@ -2,10 +2,13 @@ Belajar github
 
 - coding
   *membuat web
-  ^tampilan
-  ^halaman
+   ^top up game
+   ^ dll
   *--------
   * apa saja
 - belajar
+- nonton yt
+  ^tutorial web
 - praktek
-  ^website
+-hasil
+
