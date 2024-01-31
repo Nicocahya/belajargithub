@@ -2,8 +2,10 @@ Belajar github
 
 - coding
   *membuat web
+  ^tampilan
+  ^halaman
   *--------
   * apa saja
 - belajar
-- nonton yt
 - praktek
+  ^website
